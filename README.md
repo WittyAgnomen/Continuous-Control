@@ -62,11 +62,11 @@ Follow the instructions in `Continuous_Control.ipynb` to get started with traini
 
 ### Dependencies
 
-numpy 1.15.4
-random
-copy
-collections
-torch 0.4.0
-UnityEnvironment
-time
-matplotlib 3.0.2
+- numpy 1.15.4
+- random
+- copy
+- collections
+- torch 0.4.0
+- UnityEnvironment
+- time
+- matplotlib 3.0.2
